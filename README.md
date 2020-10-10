@@ -10,9 +10,9 @@ My interests include:
 - Reinforcement learning
 - Interpretable and reliable machine learning
 
-- 🔭 I’m currently working on: Representation learning for gene expression.
+🔭 I’m currently working on: Representation learning for gene expression.
 
-- 🌱 I’m currently learning: Causal inference, Gaussian processes.
+🌱 I’m currently learning: Causal inference, Gaussian processes.
 <!--
 **Abdul-Moeed/Abdul-Moeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
