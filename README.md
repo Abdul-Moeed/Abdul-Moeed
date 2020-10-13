@@ -13,6 +13,8 @@ My interests include:
 🔭 I’m currently working on: Representation learning for gene expression.
 
 🌱 I’m currently learning: Causal inference, Gaussian processes.
+
+Check out my website [https://abdulmoeed.net/](https://abdulmoeed.net/) for more info!
 <!--
 **Abdul-Moeed/Abdul-Moeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
