@@ -14,7 +14,7 @@ My interests include:
 
 🌱 I’m currently learning: Causal inference, Gaussian processes.
 
-Check out my [website](https://www.notion.so/Abdul-Moeed-c0884d6177e7458aa3598a8a7d2aac52) for more info!
+Check out my [website](https://abdulmoeed.net/) for more info!
 <!--
 **Abdul-Moeed/Abdul-Moeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
