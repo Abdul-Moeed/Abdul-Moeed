@@ -1,7 +1,7 @@
 ### Hi, I'm Moeed (I go by my last name) 👋
 
-I'm doing a Master's degree in Computer Science at TU Munich with a focus on -- surprise, surprise -- machine learning.
-Projects have included domain transfer for reinforcement learning with [TUM Data Innovation Lab](https://www.di-lab.tum.de/tum-di-lab/), text summarization using transformer models and classifying motor signals via EEG.
+I'm a PhD candidate in Oliver Stegle's machine learning group at Heidelberg University. I have a Master's degree in Computer Science from TU Munich and a Bachelor's degree in the same from NUST, Pakistan.
+Previous projects have included representation learning for gene expression (master's thesis under Fabian Theis), domain transfer for reinforcement learning with [TUM Data Innovation Lab](https://www.di-lab.tum.de/tum-di-lab/), text summarization using transformer models and classifying motor signals via EEG.
 
 I also work part-time as an AI engineer at [appliedAI](https://www.appliedai.de/), currently investigating classifier calibration.
 
